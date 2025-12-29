@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Umar
 - 👀 I’m interested in TestAutomation & Devops tools & Cloud services
-- 🌱 I’m currently learining AZ-104 course certificatoin 
 - 💞️ I’m looking to collaborate on Machin learning models & AI alogrithms.
 - 📫 How to reach me md8.umar@gmail.com
 
